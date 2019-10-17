@@ -11,4 +11,4 @@ def game():
         print("bingo")
     while randomnumber <= 3:
         print ("not ok")
-        random number +=1
+        random number +=   
