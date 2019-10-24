@@ -7,3 +7,4 @@ print('thanks')
 my_list = ['suck', 'my','fat','kraut']
 for i in my_list :
     print(i)
+    
